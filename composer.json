@@ -1,8 +1,8 @@
 {
-    "name": "phpoffice/phpexcel",
+    "name": "jhonatanpereira/phpexcel",
     "description": "PHPExcel - OpenXML - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
     "keywords": ["PHP","Excel","OpenXML","xlsx","xls","spreadsheet"],
-    "homepage": "https://github.com/PHPOffice/PHPExcel",
+    "homepage": "https://github.com/JhonatanPereira/PHPExcel",
     "type": "library",
     "license": "LGPL-2.1",
     "authors": [
@@ -20,6 +20,10 @@
         },
         {
             "name": "Erik Tilt"
+        },
+        {
+            "name": "Jhonatan Pereira",
+            "homepage": "http://jhonatan.me"
         }
     ],
     "require": {
